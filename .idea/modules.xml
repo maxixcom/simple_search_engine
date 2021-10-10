@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Search_Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Search Engine/task/Simple_Search_Engine.Simple_Search_Engine-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Simple_Search_Engine.Topics-When_expression-From_string_to_a_number.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Simple_Search_Engine.Topics-When_expression-From_string_to_a_number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Simple_Search_Engine.Topics-When_expression-From_string_to_a_number.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Simple_Search_Engine.Topics-When_expression-From_string_to_a_number.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Simple_Search_Engine.Topics-When_expression-From_string_to_a_number.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/When expression/From string to a number/Simple_Search_Engine.Topics-When_expression-From_string_to_a_number.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Simple_Search_Engine.Topics-When_expression-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Simple_Search_Engine.Topics-When_expression-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Simple_Search_Engine.Topics-When_expression-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Simple_Search_Engine.Topics-When_expression-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Simple_Search_Engine.Topics-When_expression-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/When expression/Theory/Simple_Search_Engine.Topics-When_expression-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Search_Engine.util.test.iml" />
+    </modules>
+  </component>
+</project>
